@@ -1,0 +1,3 @@
+# Created by anaconda
+RES_OPTIONS="single-request-reopen"
+GATEWAY=192.168.50.5
